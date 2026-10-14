@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Simulacao_de_desempacotamento/Simulacao_de_desempacotamento.vcxproj" Id="f2e39960-b4ed-4975-b5a4-0eabcceda192" />
+</Solution>
