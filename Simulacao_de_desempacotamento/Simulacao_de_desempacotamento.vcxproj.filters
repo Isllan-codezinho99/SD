@@ -22,15 +22,4 @@
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\..\..\Pictures\Screenshots\Captura de Tela (29).png">
-      <Filter>Images</Filter>
-    </Image>
-    <Image Include="..\..\..\..\Pictures\Screenshots\Captura de Tela (30).png">
-      <Filter>Images</Filter>
-    </Image>
-    <Image Include="..\..\..\..\Pictures\Screenshots\Captura de Tela (31).png">
-      <Filter>Images</Filter>
-    </Image>
-  </ItemGroup>
 </Project>

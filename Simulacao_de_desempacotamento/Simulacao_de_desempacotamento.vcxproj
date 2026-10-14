@@ -141,11 +141,6 @@
   <ItemGroup>
     <ClCompile Include="sd.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\..\..\Pictures\Screenshots\Captura de Tela (29).png" />
-    <Image Include="..\..\..\..\Pictures\Screenshots\Captura de Tela (30).png" />
-    <Image Include="..\..\..\..\Pictures\Screenshots\Captura de Tela (31).png" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
